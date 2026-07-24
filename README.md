@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0209-minimum-size-subarray-sum) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -17,4 +18,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0209-minimum-size-subarray-sum) |
+## Math
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
