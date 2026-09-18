@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0486-predict-the-winner) |
+| [0621-task-scheduler](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0973-k-closest-points-to-origin) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [1386-cinema-seat-allocation](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1386-cinema-seat-allocation) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shrey1006/Leetcode-Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2029-stone-game-ix](https://github.com/Shrey1006/Leetcode-Solved/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1046-last-stone-weight) |
@@ -188,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [1386-cinema-seat-allocation](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Shrey1006/Leetcode-Solved/tree/master/2029-stone-game-ix) |
