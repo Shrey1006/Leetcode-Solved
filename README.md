@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0217-contains-duplicate) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0242-valid-anagram) |
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0973-k-closest-points-to-origin) |
@@ -416,4 +421,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1729-find-followers-count](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1789-primary-department-for-each-employee) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
