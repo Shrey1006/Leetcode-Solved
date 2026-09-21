@@ -409,4 +409,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1757-recyclable-and-low-fat-products) |
+| [1789-primary-department-for-each-employee](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1789-primary-department-for-each-employee) |
 <!---LeetCode Topics End-->
