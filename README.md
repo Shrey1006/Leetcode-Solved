@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1872-stone-game-viii) |
+| [1901-find-a-peak-element-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1901-find-a-peak-element-ii) |
 | [2029-stone-game-ix](https://github.com/Shrey1006/Leetcode-Solved/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shrey1006/Leetcode-Solved/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shrey1006/Leetcode-Solved/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0540-single-element-in-a-sorted-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1901-find-a-peak-element-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1901-find-a-peak-element-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shrey1006/Leetcode-Solved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Sliding Window
 |  |
@@ -445,4 +447,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/3525-find-x-value-of-array-ii) |
+## Matrix
+|  |
+| ------- |
+| [1901-find-a-peak-element-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1901-find-a-peak-element-ii) |
 <!---LeetCode Topics End-->
