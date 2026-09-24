@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0169-majority-element) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0078-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shrey1006/Leetcode-Solved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0078-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
