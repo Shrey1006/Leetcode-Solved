@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0148-sort-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shrey1006/Leetcode-Solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Shrey1006/Leetcode-Solved/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0049-group-anagrams) |
+| [0148-sort-list](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0217-contains-duplicate) |
@@ -345,11 +347,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0148-sort-list) |
 | [0355-design-twitter](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0355-design-twitter) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Shrey1006/Leetcode-Solved/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
@@ -478,4 +482,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0142-linked-list-cycle-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
