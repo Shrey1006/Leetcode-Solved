@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0424-longest-repeating-character-replacement) |
+| [1096-brace-expansion-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0621-task-scheduler](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0621-task-scheduler) |
+| [1096-brace-expansion-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0973-k-closest-points-to-origin) |
+| [1096-brace-expansion-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shrey1006/Leetcode-Solved/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0199-binary-tree-right-side-view) |
+| [1096-brace-expansion-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1096-brace-expansion-ii) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Shrey1006/Leetcode-Solved/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0078-subsets) |
+| [1096-brace-expansion-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -488,4 +493,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0148-sort-list) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
