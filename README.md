@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1901-find-a-peak-element-ii) |
 | [2029-stone-game-ix](https://github.com/Shrey1006/Leetcode-Solved/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shrey1006/Leetcode-Solved/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Shrey1006/Leetcode-Solved/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shrey1006/Leetcode-Solved/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shrey1006/Leetcode-Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shrey1006/Leetcode-Solved/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1872-stone-game-viii) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Shrey1006/Leetcode-Solved/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Math
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0148-sort-list) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Shrey1006/Leetcode-Solved/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shrey1006/Leetcode-Solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Shrey1006/Leetcode-Solved/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Shrey1006/Leetcode-Solved/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shrey1006/Leetcode-Solved/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shrey1006/Leetcode-Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Shrey1006/Leetcode-Solved/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Counting Sort
 |  |
 | ------- |
@@ -268,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Shrey1006/Leetcode-Solved/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shrey1006/Leetcode-Solved/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Shrey1006/Leetcode-Solved/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shrey1006/Leetcode-Solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shrey1006/Leetcode-Solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
