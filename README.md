@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0621-task-scheduler) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1140-stone-game-ii) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0973-k-closest-points-to-origin) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [1386-cinema-seat-allocation](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
