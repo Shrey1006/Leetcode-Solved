@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [1096-brace-expansion-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -517,8 +518,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Tournament Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0023-merge-k-sorted-lists) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
