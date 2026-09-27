@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0012-integer-to-roman) |
 | [0486-predict-the-winner](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0877-stone-game) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0242-valid-anagram) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0128-longest-consecutive-sequence) |
