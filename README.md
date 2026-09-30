@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0877-stone-game) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1140-stone-game-ii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0877-stone-game) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0918-maximum-sum-circular-subarray) |
 | [1140-stone-game-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1510-stone-game-iv) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
@@ -549,4 +552,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shrey1006/Leetcode-Solved/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
