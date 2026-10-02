@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0242-valid-anagram) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0152-maximum-product-subarray) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0078-subsets) |
 | [1096-brace-expansion-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
