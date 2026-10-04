@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0424-longest-repeating-character-replacement) |
+| [0459-repeated-substring-pattern](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0459-repeated-substring-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -579,4 +581,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0918-maximum-sum-circular-subarray) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
