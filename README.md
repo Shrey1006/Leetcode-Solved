@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0918-maximum-sum-circular-subarray) |
 | [1140-stone-game-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1140-stone-game-ii) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1927-sum-game) |
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -559,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
