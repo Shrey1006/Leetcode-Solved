@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0062-unique-paths) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0486-predict-the-winner) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -672,5 +676,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
