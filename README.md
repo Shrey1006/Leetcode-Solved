@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0078-subsets) |
 | [0119-pascals-triangle-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0128-longest-consecutive-sequence) |
+| [0137-single-number-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0209-minimum-size-subarray-sum) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0078-subsets) |
+| [0137-single-number-ii](https://github.com/Shrey1006/Leetcode-Solved/tree/master/0137-single-number-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Shrey1006/Leetcode-Solved/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shrey1006/Leetcode-Solved/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shrey1006/Leetcode-Solved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
